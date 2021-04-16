@@ -7,7 +7,7 @@
 - 🎁 I have also certified with Professional - Google clound architect, Data Engineer, Network Engineer and Google Cloud Associate Cloud Engineer.
 - ✔  Have experince in ReactJs and Angular.
 - 🌱 I’m currently learning AWS,Google cloud.
-- 👯 I’m looking to collaborate on Web Development.
+- 👯 I’m looking to collaborate in Web Development.
 - 🤔 I’m looking for help with AWS.
 - 💬 Ask me about anything
 - 📫 How to reach me: can mail me @ arorahimanshu103@gmail.com
